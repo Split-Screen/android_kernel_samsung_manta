@@ -55,7 +55,7 @@ modules.builtin
 #
 !.gitignore
 !.mailmap
-
+!.gitreview
 #
 # Generated include files
 #
